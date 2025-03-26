@@ -1,4 +1,4 @@
-# Finance_dashboard
+# Finance Dashboard using Power BI 
 
 ## Project Overview
 A comprehensive financial analytics dashboard designed to track and visualize key financial metrics, providing insights into income, expenses, savings, and financial performance from 2021 to 2024.
